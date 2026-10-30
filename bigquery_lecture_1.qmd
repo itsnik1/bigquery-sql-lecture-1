@@ -186,4 +186,4 @@ I could definitely see BigQuery being useful for digital marketing analytics, es
 
 [GH Repo](https://github.com/itsnik1/bigquery-sql-lecture-1)
 
-Published Page
+[Published Page](https://itsnik1.github.io/bigquery-sql-lecture-1/)
